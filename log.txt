@@ -1,1 +1,0 @@
-Use this file to log customizations made 'outside' of the Clip (i.e. changes made to native files and folders)
